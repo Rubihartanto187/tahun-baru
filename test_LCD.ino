@@ -1,5 +1,4 @@
 #include  <LiquidCrystal_I2C.h>
-#include <Servo.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 int hitung = 10;
 const int tombol = 13;
